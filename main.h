@@ -1,10 +1,10 @@
 /*
-* https://github.com/rohanrhu/volume-level-protect
+* https://github.com/rohanrhu/sound-level-protect
 *
-* volume-level-protect is a protector for audio volume level
+* sound-level-protect is a protector for audio volume level
 * during using headphones in on Win32 platform.
 *
-* Copyright (C) 2017 Oðuzhan Eroðlu <rohanrhu2@gmail.com>
+* Copyright (C) 2017 OÄŸuzhan EroÄŸlu <rohanrhu2@gmail.com>
 * Licensed under The MIT License (MIT)
 *
 */
